@@ -11,4 +11,4 @@
     * --env flag or -e, MYSQL_RANDOM_ROOT_PASSWORD = yes
 # Checkout logs
 
-# Clean containers (stop and delete thems)
+# Clean containers (stop and delete them)
