@@ -8,3 +8,11 @@
 * apt-cache policy docker-ce
 * sudo apt install docker-ce
 #### source: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+## Running a container:
+
+* docker container run --publish --detach --name webhost nginx
+
+## checking out logs:
+
+* docker container logs webhost
